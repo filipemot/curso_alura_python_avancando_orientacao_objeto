@@ -5,3 +5,6 @@
 - Definição de métodos assessores
 - @property
 - name
+- Herança
+- Generalização/especialização
+- Método super()
