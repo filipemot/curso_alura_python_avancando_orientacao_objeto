@@ -8,3 +8,6 @@
 - Herança
 - Generalização/especialização
 - Método super()
+- Polimorfismo
+- Relacionamento é um
+- Representação textual de um objeto
