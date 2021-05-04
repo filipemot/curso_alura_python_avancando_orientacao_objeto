@@ -14,3 +14,7 @@
 - Herança de um tipo built-in (nativo)
 - Vantagens da herança de um iterável
 - Desvantagem de fazer herança
+- Duck typing
+- Python data (object) model
+- Dunder methods
+- Uso de ABCs
