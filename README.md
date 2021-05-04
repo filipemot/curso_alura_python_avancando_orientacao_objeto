@@ -11,3 +11,6 @@
 - Polimorfismo
 - Relacionamento é um
 - Representação textual de um objeto
+- Herança de um tipo built-in (nativo)
+- Vantagens da herança de um iterável
+- Desvantagem de fazer herança
